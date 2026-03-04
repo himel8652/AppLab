@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav .container .nav_text {
+  font-size: 30px;
+  font-weight: 50px;
+}
+nav .container .nav_text span {
+  color: #fccb9b;
+}
+#mynavbar {
+  font-size: 20px;
+}
+nav {
+  background: #fdfdfe;
+}
+/*nav is end*/
+.b_text {
+  background-color: #e2eaed;
+  width: 80%;
+}
+.png_1 img {
+  opacity: 0.8;
+}
+.feature_app .container {
+  margin-top: 200px !important
+  ;
+}
+.feature_app .container .row .back_ {
+  background-image: url(/image/Ellipse\ 1.png);
+  background-repeat: no-repeat;
+}
+.home {
+  background-image: url(/illustrations/hero-bg.png);
+  background-repeat: no-repeat;
+}
