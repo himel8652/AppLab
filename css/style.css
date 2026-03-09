@@ -28,10 +28,13 @@ nav {
   ;
 }
 .feature_app .container .row .back_ {
-  background-image: url(/illustrations/hero-bg.png);
+  background-image: url("/illustrations/hero-bg.png");
   background-repeat: no-repeat;
 }
 .home {
-  background-image: url(/illustrations/hero-bg.png);
+  background-image: url("/illustrations/hero-bg.png");
   background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  width: 100%;
 }
